@@ -1,5 +1,4 @@
-# basic_data_analysis_
-The basic data analysis project.
+# Basic data analysis project.
 In this project I will analyse so called "GoFast" company with random data. Data will be given as ".csv" tables. 
 
 Project contains:
