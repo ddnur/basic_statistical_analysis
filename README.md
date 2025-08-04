@@ -1,5 +1,6 @@
 # Basic data analysis project.
-In this project I will analyse so called "GoFast" company with random data. Data will be given as ".csv" tables. 
+In this project I will analyse so called "GoFast" company with synthetic data.
+Data will be given as ".csv" tables. 
 
 Project contains:
 
@@ -7,3 +8,11 @@ Project contains:
 - Statistical analysis
 - Data merging
 - Hypothesis tests / t-tests
+
+
+Tools used:
+
+- Python(.ipynb file)
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- SciPy
